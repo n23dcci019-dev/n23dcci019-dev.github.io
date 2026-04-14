@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV Cá Nhân"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🎓 Học vấn
+* **Học viện Công nghệ Bưu chính Viễn thông (PTIT HCM)**
+  * Ngành học: Công nghệ Internet vạn vật (IoT)
+  * Thời gian: 2023 - Nay
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## 💻 Kỹ năng chuyên môn
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+| Nhóm kỹ năng | Chi tiết |
+| :--- | :--- |
+| **Ngôn ngữ lập trình** | C/C++, Python |
+| **Phần cứng & Vi điều khiển** | Arduino, ESP32, STM32 (Nucleo-F401RE) |
+| **Công cụ & Giao thức** | Git, GitHub, VS Code, UART, I2C |
+| **Kỹ năng mềm** | Làm việc nhóm, Thuyết trình, Tư duy thuật toán |
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🚀 Dự án tiêu biểu
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Hệ thống giám sát nhiệt độ LM35 (Arduino)**
+  * *Mô tả:* Hệ thống đo và giám sát nhiệt độ đa kênh, giao tiếp qua Serial Port.
+  * *Công nghệ:* Arduino, Cảm biến LM35, định dạng dữ liệu JSON.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Bảng LED hiển thị thông số League of Legends**
+  * *Mô tả:* Thiết bị phần cứng lấy dữ liệu thời gian thực (KDA, chỉ số lính, thời gian) từ game và hiển thị lên 6 LED 7 đoạn.
+  * *Công nghệ:* ESP32, C/C++, tích hợp API.
