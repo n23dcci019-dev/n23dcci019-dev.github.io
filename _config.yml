@@ -19,7 +19,7 @@ repository        : "n23dcci019-dev/n23dcci019-dev.github.io"
 
 # Site Author
 author:
-  avatar           : "/images/avatar-duy.jpg"
+  avatar           : "avatar-duy.jpg"
   name             : "Lê Khánh Duy"
   bio              : "Sinh viên Công nghệ Thông tin tại PTIT HCM. Đam mê lập trình nhúng & IoT."
   location         : "Thành phố Hồ Chí Minh, Việt Nam"
