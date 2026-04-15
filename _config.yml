@@ -14,7 +14,7 @@ title_separator   : "-"
 name              : "Lê Khánh Duy"
 description       : "Sinh viên Công nghệ Thông tin tại PTIT HCM. Đam mê lập trình vi điều khiển (STM32, ESP32) và nghiên cứu các giải pháp IoT thực tiễn."
 url               : "https://n23dcci019-dev.github.io"
-baseurl           : ""
+baseurl           : " "
 repository        : "n23dcci019-dev/n23dcci019-dev.github.io"
 
 # Site Author
